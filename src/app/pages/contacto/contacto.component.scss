@@ -1,0 +1,109 @@
+.fa {
+  padding: 12px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  //margin: 2px 2px;
+  border-radius: 100%;
+}
+
+.fa:hover {
+    opacity:100;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-whatsapp {
+background: #25D366;
+color: white;
+}
+
+.rep_btn {
+  border: none;
+  cursor: pointer;
+  text-transform: lowercase;
+  font-size: 13px;
+  background-color: transparent;
+}
+
+.video_content {
+  padding: 100px;
+  text-align: justify;
+  align-items: center;
+  margin-top: 10%;
+  //background-color: red;
+}
+.text {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  //background-color: blue;
+}
+.mapa_google {
+  float: right;
+  padding: 25px;
+  margin-top: 0px;
+  align-items: center;
+  align-content: center;
+  //background-color: black;
+}
+
+.column {
+  width: 750px;
+  height: 275px;
+  float: left;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  //background-color: green;
+}
+
+div#social_1 {
+  margin-top: 50px;
+  margin-right: 2px;
+  margin-left: 100px;
+  display: inline-block;
+}
+
+div#social_2 {
+  margin-top: 50px;
+  margin-right: 2px;
+  margin-left: 150px;  
+}
+
+div#social_3 {
+  margin-top: 5px;
+  margin-right: 2px;
+  margin-left: 100px;
+  display: inline-block;
+}
+
+div#social_4 {
+  margin-top: 5px;
+  padding: 5px;
+  margin-right: 2px;
+  margin-left: 150px;  
+}
+
+.footer {
+  display: block;
+  margin-top: 35%;   
+  float: bottom;
+  font-size: 11px;
+  text-align: center;
+  //background-color: yellow;
+}

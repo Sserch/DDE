@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
+import { Observable } from 'apollo-client/util/Observable';
+
 @Component({
   selector: 'app-contacto',
   templateUrl: './contacto.component.html',
