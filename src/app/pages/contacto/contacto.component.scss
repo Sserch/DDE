@@ -32,13 +32,13 @@
   color: white;
 }
 
-.texto {
-  color: white;
+.texto-1 {
+  font-size: 17px;
 }
 
 .texto-2 {
   float: bottom;
-  font-size: 13px;
+  font-size: 15px;
   text-align: center;
 }
 
@@ -46,21 +46,18 @@
     background-color: transparent;
     border: none;
     text-transform: lowercase;
-    font-size: 13px;
+    font-size: 15px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.mapa {
-  align-content: center;
-  align-items: center;
-  align-self: center;
-}
-
-// div[class|="col"] {
+//  div[class|="col"] {
 //   border: 1px solid red;
 // }
 
-div[class|="social"] {
-  padding: 35px;
+button[class|="social"] {
+  display: block;
+  align-content: center; 
+  padding: 45px;
 }
 
 div[class|="texto"] {
